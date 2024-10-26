@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>hello-world-web-app</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>java-web-app</artifactId>
+    <version>1.0</version>
     <packaging>war</packaging> <!-- WAR file for web application -->
 
     <build>
